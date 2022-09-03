@@ -86,6 +86,7 @@ SIMPLE_JWT = {
 # TESTING
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
 
     'django.middleware.security.SecurityMiddleware',
 
