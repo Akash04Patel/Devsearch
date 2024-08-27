@@ -1,1 +1,2 @@
 # Devsearch
+This project is a web application developed using Python and Django as part of my college coursework. The primary objective of this project was to enhance my skills in backend development with Django and build a practical application that facilitates user interaction, search functionality, and profile management. The project includes features such as user authentication, project search, and dynamic content rendering, which are essential for preparing for placement opportunities in software development roles.
